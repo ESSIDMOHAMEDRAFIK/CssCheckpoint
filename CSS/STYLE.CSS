@@ -1,0 +1,115 @@
+*{padding: 0;margin: 0}
+#cover1{
+    top:0;
+    left:0;
+    position: absolute;
+    z-index: -1;
+}
+#gmcadjust{ color: white ; font-size: 60px ; margin-bottom:110px ; margin-top:10%}
+#heading { color: blue ; font-size: 4em; ; margin-left: 6cm ; margin-top: 7cm ; font-family: 'Times New Roman', Times, serif;  }
+
+.articletitle { font-size: 2em;margin-left: 2cm  ; padding-top: 1.5cm ;    }
+.articlebody {  font-size: 1em; ; width: 50% ; margin: auto  ; text-align: justify ; padding-top : 1cm ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;   }
+
+    .all{
+        margin:auto;
+        width:80%;  
+    }
+.fondgris{
+    background-color: darkgrey; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    float: left;
+
+}
+
+.fondgris:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+
+.fondgris2{
+    background-color: darkgrey; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    margin-left:15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;
+}
+.fondgris2:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+
+.fondgris3{
+    background-color: grey; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    float: left;
+}
+.fondgris3:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+.fondgris4{
+    background-color: grey; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    margin-left:15px;
+}
+.fondgris4:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+
+.fondgris5{
+    background-color: darkgrey; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    float: left;
+}
+.fondgris5:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+.fondgris6{
+    background-color: darkgray; 
+    height: 10cm ; 
+    width: 49% ; 
+    overflow: hidden;
+    display:inline-block;
+    margin-left:15px;
+}
+.fondgris6:hover {
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;
+    
+}
+
+
+
+
